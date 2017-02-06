@@ -3,7 +3,7 @@
 # Title: RMnagger.pl
 # Version: 
 # Author: Simon Ibsen (simon@engineering.ucsb.edu)
-# Purpose: To check if a host is in RackMaster
+# Purpose: To check if a host is in RackMap
 #
 #
 
